@@ -34,6 +34,6 @@ A MERN-stack accounting operations platform for gas station workflows, including
 
 ## 📫 Connect
 
-🌐 Portfolio: [dilshaan.dev](https://dilshaan.dev)  
+🌐 Portfolio: [dilshaan.dev](https://dilshaan.dev/ref?=readme)  
 💼 LinkedIn: [linkedin.com/in/dilshaan-sandhu](https://linkedin.com/in/dilshaan-sandhu)  
 📧 Email: [d7sandhu@uwaterloo.ca](mailto:d7sandhu@uwaterloo.ca)
